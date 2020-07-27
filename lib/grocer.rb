@@ -60,5 +60,6 @@ def consolidate_cart(unconsolidated_cart)
     item_hash[:count] = 1
   end
  end
+ consolo_cart
 end
   
